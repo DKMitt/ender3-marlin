@@ -1,4 +1,7 @@
 /**
+ * Modified for the Creality Ender 3 / Ender 3 Pro with MKS Gen L Motherboard and BLTouch
+ * by Darryl Mittlestaedt, Last revised 03/22/2019 
+ * 
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
