@@ -31,7 +31,7 @@ Description of website technologies used to develop this app.
 
 Description of website technologies used to develop this app.
 
-- 
+- Changed Bed Leveling from probing grid of 9 to 16 points for better performance 03/22/2019
 - 
 
 ----
@@ -41,7 +41,7 @@ Description of website technologies used to develop this app.
 Description of revisions made to these repos for my own personal uses, other users may have to adjust according the hardware or addition of bed levelers and other modifications - __Updated, 03/22/2019__
 
   - [ ] Created repo - started 03/22/2019
-  - [ ] Dev - 
+  - [ ] Dev - Changed Bed Leveling from probing grid of 9 to 16 points for better performance 03/22/2019
   - [ ] Dev - 
   - [ ] Dev - 
   - [ ] Dev - 
