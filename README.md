@@ -1,4 +1,4 @@
-![Marlin Logo](/public/assets/images/marlin.png)
+![Marlin Logo](/assets/images/marlin.png)
 
 # Marlin
 Repo contain various version of Marlin software configured for the the Creality Ender 3 & Ender 3 Pro
@@ -55,7 +55,7 @@ Description of revisions made to these repos for my own personal uses, other use
 
  
 
-![Marlin Firmware](/public/assets/images/marlin.png)
+![Marlin Firmware](/assets/images/marlin.png)
 
  
 
