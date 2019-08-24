@@ -3,6 +3,8 @@
 # Marlin
 Repo contain various version of Marlin software configured for the the Creality Ender 3 & Ender 3 Pro
 
+Modified for Ender 3 with MKS Gen L & BLTouch Marlin 1.1.9 Bug Fix
+
 
 
 
@@ -22,16 +24,15 @@ __Project Status - Current Version Using Marlin 1.1.9 Bug Fix - Updated, 03/22/2
   -  Marlin Resources
   -  Marlin User Support
 
-
 ----
 
 ### Machine Configuration
 
-Description of website technologies used to develop this app.
+Description of machine configuration used with Marlin software.
 
-- 
-- 
-
+- Creality Ender 3 Pro, Single stock hot end, heating element and 0.4mm nozzle
+- MKS Gen L Main Board
+- BLTouch Bed Leveling Sensor
 
 ----
 
@@ -41,7 +42,6 @@ Description of website technologies used to develop this app.
 
 - Changed Bed Leveling from probing grid of 9 points to 16 points for better performance 03/22/2019
 - 
-
 
 ----
 
